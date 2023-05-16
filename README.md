@@ -2,8 +2,8 @@
 
 ***
 
-#### Freelance full-stack Web
-##### Soy un apasionado por el desarrollo de software. Me encanta resolver problemas y crear soluciones innovadoras que mejoran la vida de las personas. Desde niño me han gustado las computadoras y he estado en el mundo del desarrollo de software desde hace más de dos años
+### Freelance full-stack Web
+#### Soy un apasionado por el desarrollo de software. Me encanta resolver problemas y crear soluciones innovadoras que mejoran la vida de las personas. Desde niño me han gustado las computadoras y he estado en el mundo del desarrollo de software desde hace más de dos años
 
 ***
 
